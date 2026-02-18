@@ -17,8 +17,8 @@ require (
 	github.com/anchore/go-testutils v0.0.0-20200925183923-d5f45b0d3c04
 	github.com/anchore/go-version v1.2.2-0.20210903204242-51efa5b487c4
 	github.com/anchore/packageurl-go v0.1.1-0.20250220190351-d62adb6e1115
-	github.com/anchore/stereoscope v0.1.19
-	github.com/anchore/syft v1.41.0
+	github.com/anchore/stereoscope v0.1.20
+	github.com/anchore/syft v1.42.0
 	github.com/aquasecurity/go-pep440-version v0.0.1
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de
 	github.com/bitnami/go-version v0.0.0-20250505154626-452e8c5ee607
@@ -131,7 +131,7 @@ require (
 	github.com/becheran/wildmatch-go v1.0.0 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/blakesmith/ar v0.0.0-20190502131153-809d4375e1fb // indirect
-	github.com/bmatcuk/doublestar/v4 v4.9.2 // indirect
+	github.com/bmatcuk/doublestar/v4 v4.10.0 // indirect
 	github.com/bodgit/plumbing v1.3.0 // indirect
 	github.com/bodgit/sevenzip v1.6.1 // indirect
 	github.com/bodgit/windows v1.0.1 // indirect
@@ -166,7 +166,7 @@ require (
 	github.com/deitch/magic v0.0.0-20240306090643-c67ab88f10cb // indirect
 	github.com/diskfs/go-diskfs v1.7.0 // indirect
 	github.com/distribution/reference v0.6.0 // indirect
-	github.com/docker/cli v29.1.5+incompatible // indirect
+	github.com/docker/cli v29.2.0+incompatible // indirect
 	github.com/docker/distribution v2.8.3+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.9.4 // indirect
 	github.com/docker/go-connections v0.6.0 // indirect
@@ -186,7 +186,7 @@ require (
 	github.com/glebarez/go-sqlite v1.22.0 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
 	github.com/go-git/go-billy/v5 v5.7.0 // indirect
-	github.com/go-git/go-git/v5 v5.16.4 // indirect
+	github.com/go-git/go-git/v5 v5.16.5 // indirect
 	github.com/go-jose/go-jose/v4 v4.1.2 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
@@ -339,5 +339,5 @@ require (
 	modernc.org/libc v1.67.6 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.11.0 // indirect
-	modernc.org/sqlite v1.44.1 // indirect
+	modernc.org/sqlite v1.44.3 // indirect
 )
